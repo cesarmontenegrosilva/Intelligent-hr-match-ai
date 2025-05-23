@@ -1,7 +1,7 @@
 # IntelliMatch AI - Assistente Inteligente de Recrutamento
 
 **Versão:** 0.1.5
-**Data da Última Atualização:** 21 de Maio de 2025
+**Data da Última Atualização:** 22 de Maio de 2025
 
 ## Índice
 
